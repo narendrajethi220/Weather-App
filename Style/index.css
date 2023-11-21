@@ -10,7 +10,9 @@ body {
   background-color: #78716c;
 }
 .container {
-  width: 30%;
+  width: 25%;
+
+  height: 60%;
 }
 .card {
   border-radius: 50px;
@@ -18,6 +20,7 @@ body {
   box-shadow: 5px 5px 10px #191b1b, -5px -5px 10px #595959;
   padding: 3%;
   text-align: center;
+  height: 100%;
 }
 h6 #weather {
   text-transform: capitalize;
@@ -33,7 +36,7 @@ img #icon {
 button.refresh {
   display: block;
   width: 50px;
-  margin: 10px auto;
+  margin: 50px auto auto auto;
   background: transparent;
   border: 0;
   color: #9c9c9d;
@@ -44,4 +47,8 @@ button.refresh {
 }
 button.refresh:hover {
   box-shadow: inset 40px 4px 10px #252525, inset 5px 5px 18px #4a4a4a;
+}
+.card img {
+  background-color: #475569;
+  border-radius: 20px;
 }

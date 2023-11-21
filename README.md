@@ -15,13 +15,13 @@ To use the Weather App, you'll need to sign up for a free API key from OpenWeath
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/weather-app.git
+   git clone https://github.com/narendrajethi220/Weather-App.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd weather-app
+   cd Weather-App
    ```
 
 3. Open the `index.html` file in your preferred web browser.
@@ -36,7 +36,7 @@ To use the Weather App, you'll need to sign up for a free API key from OpenWeath
 
 ## Configuration
 
-In the `script.js` file, locate the following line:
+In the `index.js` file, locate the following line:
 
 ```javascript
 const apiKey = 'YOUR_API_KEY';

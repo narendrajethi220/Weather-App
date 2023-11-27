@@ -1,5 +1,6 @@
 
 # Weather App
+![image](https://github.com/narendrajethi220/Weather-App/assets/55850738/314767a4-031b-4d32-b0b1-a2fb5fe44efa)
 
 Welcome to the Weather App! This project is a simple weather application that fetches real-time weather data for a specific city using the OpenWeatherMap API.
 
@@ -65,5 +66,3 @@ Happy coding! 🌦️
 
 Make sure to replace `'YOUR_API_KEY'` with the actual API key variable used in your code. This README template provides a basic structure with sections for getting started, installation, usage, configuration, features, contributing, and license. Feel free to customize it further based on the specific details and features of your Weather App project.
 ```
-Here is a screenshot of the project.
-![image](https://github.com/narendrajethi220/Weather-App/assets/55850738/314767a4-031b-4d32-b0b1-a2fb5fe44efa)
